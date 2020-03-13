@@ -1,2 +1,4 @@
 yomichan-import*
 !yomichan-import.bat
+issues/
+.vscode/
